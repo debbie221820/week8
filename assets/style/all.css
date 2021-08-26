@@ -1,0 +1,67 @@
+.banner {
+  background: url(../../../assets/images/photo-1612157777902-5382bc6e864b.jpeg);
+  height: 582px;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: cover;
+}
+
+.bodymindGrapic1 {
+  background: url(../../../assets/images/photo-1593810450967-f9c42742e326.jpeg);
+  height: 420px;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: cover;
+}
+
+.bodymindGrapic2 {
+  background: url(../../../assets/images/photo-1593810451137-5dc55105dace.jpeg);
+  height: 420px;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: cover;
+}
+
+.bodymindGrapic3 {
+  background: url(../../../assets/images/photo-1599901860904.jpeg);
+  height: 420px;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: cover;
+}
+
+.bodymindGrapic {
+  border-radius: 30px;
+}
+
+/* color */
+.bg-primary-dark {
+  background-color: #190014CC;
+}
+
+/* text-indent */
+.text-indent-101 {
+  text-indent: 101%;
+}
+
+/* z-index */
+.z-index-1055 {
+  z-index: 1055;
+}
+
+li {
+  list-style: none;
+}
+
+*, *::before, *::after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+/*# sourceMappingURL=all.css.map */
