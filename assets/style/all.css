@@ -2,36 +2,54 @@
   background: url(../../../assets/images/photo-1612157777902-5382bc6e864b.jpeg);
   height: 582px;
   background-repeat: no-repeat;
-  background-position: right bottom;
+  background-position: bottom;
   background-size: cover;
 }
 
-.bodymindGrapic1 {
-  background: url(../../../assets/images/photo-1593810450967-f9c42742e326.jpeg);
-  height: 420px;
-  background-repeat: no-repeat;
-  background-position: right bottom;
-  background-size: cover;
-}
-
-.bodymindGrapic2 {
-  background: url(../../../assets/images/photo-1593810451137-5dc55105dace.jpeg);
-  height: 420px;
-  background-repeat: no-repeat;
-  background-position: right bottom;
-  background-size: cover;
-}
-
-.bodymindGrapic3 {
-  background: url(../../../assets/images/photo-1599901860904.jpeg);
-  height: 420px;
-  background-repeat: no-repeat;
-  background-position: right bottom;
-  background-size: cover;
+.bodymindSubtitle {
+  font-size: 24px;
+  line-height: 42px;
 }
 
 .bodymindGrapic {
+  margin: 0 1%;
   border-radius: 30px;
+  height: 420px;
+}
+
+.pic1 {
+  background: url(../../../assets/images/photo-1593810450967-f9c42742e326.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.pic2 {
+  background: url(../../../assets/images/photo-1593810451137-5dc55105dace.jpeg);
+  height: 420px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.pic3 {
+  background: url(../../../assets/images/photo-1599901860904.jpeg);
+  height: 420px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.proTeacher {
+  padding: 64px 85px;
+}
+
+.guidephoto {
+  width: 100%;
+}
+
+.proTeacher-grop {
+  margin-right: 85px;
 }
 
 /* color */
@@ -62,6 +80,10 @@ html, body {
   height: 100%;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
+}
+
+.container {
+  padding: 0;
 }
 
 /*# sourceMappingURL=all.css.map */

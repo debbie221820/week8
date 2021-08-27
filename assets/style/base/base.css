@@ -9,4 +9,8 @@ html, body {
           box-sizing: border-box;
 }
 
+.container {
+  padding: 0;
+}
+
 /*# sourceMappingURL=base.css.map */
