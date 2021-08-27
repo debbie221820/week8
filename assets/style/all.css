@@ -1,5 +1,5 @@
 .banner {
-  background: url(../../../assets/images/photo-1612157777902-5382bc6e864b.jpeg);
+  background: url(../../assets/images/photo-1612157777902-5382bc6e864b.jpeg);
   height: 582px;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -18,14 +18,14 @@
 }
 
 .pic1 {
-  background: url(../../../assets/images/photo-1593810450967-f9c42742e326.jpeg);
+  background: url(../../assets/images/photo-1593810450967-f9c42742e326.jpeg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 .pic2 {
-  background: url(../../../assets/images/photo-1593810451137-5dc55105dace.jpeg);
+  background: url(../../assets/images/photo-1593810451137-5dc55105dace.jpeg);
   height: 420px;
   background-repeat: no-repeat;
   background-position: center;
@@ -33,7 +33,7 @@
 }
 
 .pic3 {
-  background: url(../../../assets/images/photo-1599901860904.jpeg);
+  background: url(../../assets/images/photo-1599901860904.jpeg);
   height: 420px;
   background-repeat: no-repeat;
   background-position: center;
